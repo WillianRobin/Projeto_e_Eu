@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(202, 255, 255);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    color:rgb(77, 77, 77);
+    background-color: white;
+    padding: 30px;
+}
+h2{
+    margin: 30px;
+}
+o{
+    color:cornflowerblue
+}
